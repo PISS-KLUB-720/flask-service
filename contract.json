@@ -1,0 +1,12 @@
+{
+  "req": {
+    "names": "str",
+    "sets": "0-3/0-3",
+    "games": "0-7/0-7",
+    "points": "0,15,30,45/0,15,30,45",
+    "side": "left/right"
+  },
+  "res": {
+    "position": "left,center,right,out"
+  }
+}
